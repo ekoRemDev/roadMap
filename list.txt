@@ -1,0 +1,12 @@
+HTML
+CSS
+css3
+Javascript
+OO Javascript
+PHP
+OO PHP
+JQuery
+Laravel
+JSON
+XML
+Angular
