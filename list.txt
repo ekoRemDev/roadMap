@@ -34,3 +34,25 @@ SASS
 CSRF
 ACL
 PWA
+react
+react-redux
+faker.js
+gulp
+express.js
+npm-bower
+RDBMS NoSql
+MongoDB
+MongoDB + socket.io
+Firebase
+Firestore
+Android
+SQLIte
+MYSql
+
+deeplearn.js
+tensorflow.js
+passport.js
+
+JIRA
+Slack
+Postman
