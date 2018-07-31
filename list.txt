@@ -10,3 +10,27 @@ Laravel
 JSON
 XML
 Angular
+JQuery Mobile
+Ajax
+Composer
+Rest Easy - Pluginn
+ECMA Script
+Typescript
+JS Arduino
+johhny-five.js
+Web Service
+DOM
+Tinker
+Artisan CLI
+Angular CLI
+BladeTemplate Engine
+Eloquent ORM
+Obbect Relational Mapping
+homested
+Vue.js
+node.js
+npm
+SASS
+CSRF
+ACL
+PWA
